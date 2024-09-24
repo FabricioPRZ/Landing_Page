@@ -1,0 +1,15 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #ddd;
+}
+
+.footer div {
+    text-align: center;
+}
+
+.footer div img {
+    width: 30px;
+    height: 30px;
+}

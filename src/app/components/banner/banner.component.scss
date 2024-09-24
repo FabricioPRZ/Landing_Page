@@ -1,0 +1,21 @@
+.banner {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.banner img {
+    width: 100%;
+    height: auto;
+}
+
+.banner h1 {
+    position: absolute;
+    bottom: 10%;
+    left: 30%;
+    transform: translate(-50%, 60%);
+    font-size: 128px;
+    letter-spacing: 10px;
+    text-shadow: 2px 2px 5px black;
+    font-family: 'Tahoma', bold;
+}
